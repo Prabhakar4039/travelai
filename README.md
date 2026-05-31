@@ -13,6 +13,9 @@
 
 **An AI-powered platform that simplifies group travel planning, creating personalized itineraries and resolving group conflicts intelligently.**
 
+🔗 **Live Demo:** [https://travelai-ozd4.onrender.com](https://travelai-ozd4.onrender.com)
+
+
 </div>
 
 ---
